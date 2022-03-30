@@ -1,4 +1,4 @@
-let audio = new audio
+let audio = new audio()
 
 const boom = document.getElementById("boom");
 const clap = document.getElementById("clap");
